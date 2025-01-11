@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca27bfb8-f92b-4cd4-9f48-10615082d8cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/03_if_logical_operators_usaid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/CGPA_calculator_tawseeq.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 1 C programming/1first.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 1 C programming/1first.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 1 C programming/2variables.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 1 C programming/3input.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 2 C programming/02_operator_precedence.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 2 C programming/02arithematic_instructions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 2 C programming/02arithematic_instructions.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 2 C programming/02type_declaratio_Instructions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 3 C Programming/03_If_basic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 3 C Programming/03_If_logical_operators.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 3 C Programming/03_if_else_if.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 3 C Programming/03_switch_case.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 3 C Programming/03_ternary.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 3 C Programming/if_else.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 4 C Programming/04_continue_loops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 4 C Programming/04_do_while_loops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 4 C Programming/04_do_while_loops.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 4 C Programming/04_loops_break.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 4 C Programming/04_quick_quiz.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 5 Programming/Quick_Quiz.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 5 Programming/function_basic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 5 Programming/function_basic.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 5 Programming/function_change.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 5 Programming/recursion_factorial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 5 Programming/recursion_factorial.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 5 Programming/sum_function.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 6 C Programming/01pointer_basics.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 6 C Programming/02call_by_value.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 6 C Programming/03_call_by_refrence.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 7 Programming/array_input_using_loops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 7 Programming/arrays_to_fxns.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 7 Programming/arrays_with_pointers.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 7 Programming/pointer_arthemetic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 8 Programming/diff_bw_ptr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 8 Programming/input_string.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 8 Programming/intro_strings.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 8 Programming/intro_strings.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 8 Programming/sterlen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 8 Programming/strcpy.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 9 Programming/another_way_int_struct.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 9 Programming/ptr_to_struc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 9 Programming/quiz.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 9 Programming/structures_array.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Chapter 9 Programming/structures_basics.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/DSALGO GFG/01set.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/DSALGO GFG/01set.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q10_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q11_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q12_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q13_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q14_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q15_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q16_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q17_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q18_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q19_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q1_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q20_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q2_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q3_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q4_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q5_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q6_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q7_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q8_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 5/Q9_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q10_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q11_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q12_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q13_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q14_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q15_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q16_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q17_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q18_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q1_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q2_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q3_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q4_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q5_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q6_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q7_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q8_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 6/Q9_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 7/Q1_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 7/Q2_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 7/Q3_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 8/Q1_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 8/Q2_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab Sheet 8/Q3_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q10_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q1_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q2_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q3_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q4_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q5_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q6_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q7_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q8_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Partav Pdf/Lab sheet 4/Q9_partav.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q10_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q11_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q12_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q13_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q14_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q15_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q16_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q17_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q18_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q19_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q1_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q20_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q2_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q3_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q4_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q5_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q6_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q7_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q8_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 5/Q9_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q10_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q11_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q12_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q13_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q14_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q15_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q16_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q17_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q18_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q1_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q2_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q3_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q4_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q5_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q6_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q7_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q8_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 6/Q9_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 7/Q1_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 7/Q2_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 7/Q3_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 8/Q1_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 8/Q2_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab Sheet 8/Q3_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q1 shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q10_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q2_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q3_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q4_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q5_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q6_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q7_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q8_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets Shamiya Pdf/Lab sheet 4/Q9_shamiya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 4/Q9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q16.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q17.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q18.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q19.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q20.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 5/Q9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q16.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q17.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q18.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 6/Q9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 7/Q1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 7/Q2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 7/Q3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 8/Q1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 8/Q2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal Sir Lab Sheets pdf/Lab Sheet 8/Q3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Amritpal sir lab sheets 4 and 5 complete Tawseeq.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Amritpal sir lab sheets.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 4/Q9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q11.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q12.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q13.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q13.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q14.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q15.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q15.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q16.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q16.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q17.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q18.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 6/Q9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 7/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 7/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 7/Q2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 7/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 8/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 8/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 8/Q2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab Sheet 8/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q11.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q12.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q13.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q14.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q15.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q16.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q17.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q18.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q19.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q20.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Lab sheet 5/Q9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/Amritpal sir lab sheets/Q8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/If-Else problems/program1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/If-Else problems/program2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/If-Else problems/program3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/If-Else problems/program4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Exam practice/switch_case_janibsir.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q1_momin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q1_momin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q2_momin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q3_momin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q3_momin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q4_momin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q4_momin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q5_momin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Gradescope Assignment/Q5_momin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/basic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/character_array.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/fgets_stdin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/length_of_string.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/max_min_value.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/max_value.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/multidimensional_array_addition.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/multidimensional_array_basics.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/multidimensional_array_display.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/sort_array.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Arrays/sort_array.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Functions/factorial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Functions/random_questions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Functions/sum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Functions/sum_difference.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Functions/swap_function.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Functions/swap_function2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/basic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/basic2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/dynamic_memory_allocation.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/function_pointers.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/pointer_function.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/pointer_function_arrays1d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/pointer_function_arrays2d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/pracice_question1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/pracice_question2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Pointers/return_multiple_elements.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Recursion/basic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Recursion/basic2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Recursion/fibonaci_series_using_loops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Janib Sir C Programming/Recursion/fibonaci_series_using_recurssion.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/fact.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/fact.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/frequency.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/imp3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/imp3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/impl2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/impl2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/imple_1D.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/imple_1D.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/prime_fac.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/star1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/star2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/temp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/temp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/tempCodeRunnerFile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/test++.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/test++.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/testany.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/testloop.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice exam final/testloop.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice1/Practice1A.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice1/Practice1B.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice1/Practice2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice1/Practice3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice1/Practice4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice2/practice1a.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice3/practice2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice3/practice3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice3/practice4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice3/practice5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice3/practice6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice3/practice_.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice3/quiz_01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/01_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/01_practice.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/02_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/03_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/04_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/05_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/06_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/07_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice4/08_practice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice5/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice5/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice5/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice6/Q1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice6/Q2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice6/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice6/Q4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice6/Q5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice7/Q3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice7/Q4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice7/Q5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice7/Q6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice7/Q8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice8/Q6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice8/Q7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice8/Q8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice8/Q8_fun.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Practice8/Q9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Project C/dice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Project C/project1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Project C/project2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Project C/project2.exe.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Project C/project3_dice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Project C/project3_dice.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/Sir.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Sir work/sir9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Star Shapes/type1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Star Shapes/type2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Star Shapes/type3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Star Shapes/type4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Usaid/usaid5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Usaid/usaid6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Usaid/usid2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Usaid/usid3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Usaid/usid4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Usaid/wish.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/Usaid/wish.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/VS Code/Tawseeq_Dice_Game.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/VS Code/Tawseeq_Dice_Game.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/VS Code/Tawseeq_Stone_paper_Scissor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/VS Code/Tawseeq_Stone_paper_Scissor.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/VS Code/game.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/VS Code/game.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/boilerplate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/boilerplate_input_take.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpa.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpa_calcu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpa_calcu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpa_final.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpa_final.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpa_tot.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpamme3rdsem.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/cgpamme3rdsem.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/grpp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/help/1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/help/snas.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/sgpacalculator.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/tawtest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/test2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C Folder/wish fun/wish1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut2_oops_and_classes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut2_oops_and_classes.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut3_memory_allocation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut3_memory_allocation.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut4_static_variable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut5_static_function.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut5_static_function.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut6_array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut8_friend_functions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/From OOps/tut8_friend_functions.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut2_oops_and_classes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut2_oops_and_classes.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut3_memory_allocation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut3_memory_allocation.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut4_static_variable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut5_static_function.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut5_static_function.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut6_array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut8_friend_functions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut8_friend_functions.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/From OOps/tut9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/GFG_DSA/01_arrays/01.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/first.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/tut2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/video/oops.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/video/oops.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/arrays.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/arrays.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/call_by_refrence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/call_by_refrence.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/call_by_value.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/call_by_value.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/conditionals.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/conditionals.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/const.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/const.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/default_value.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/default_value.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/fibonacci.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/fibonacci.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/firstvs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/firstvs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/function_overloading.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/function_overloading.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/functions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/functions.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/inline_funct.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/inline_funct.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/loops.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/loops.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/manupulator.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/manupulator.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/multable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/multable.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/pointer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/pointer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/pointer_to_arrays.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/pointer_to_arrays.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/recursions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/recursions.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/structure.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/structure.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut5.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/tut6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/union.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../C++/vscode/union.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 0/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 0/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 1/css1_ps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 1/css_selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 2/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 2/color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 2/index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 2/ps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 3/code.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 3/code.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 3/marginCollapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 3/ps3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 4/ch4ps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 4/textdecor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 5/min_max_height_width.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 5/units.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 6/flexbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 6/float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 6/psq4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 7/gird.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 7/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 7/ps1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 8/animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Chapter 8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/css/utils.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/img/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/img/index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CSS/Project CSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter 5/SEO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter2/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter2/ptset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter3/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter3/practice3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/Tawseeqashu.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/The.Autopsy.of.Jane.Doe.2016.1080p.BluRay.H264.AAC-RARBG/RARBG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/The.Autopsy.of.Jane.Doe.2016.1080p.BluRay.H264.AAC-RARBG/Subs/2_Eng.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/The.Autopsy.of.Jane.Doe.2016.1080p.BluRay.H264.AAC-RARBG/Subs/3_Eng.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/The.Autopsy.of.Jane.Doe.2016.1080p.BluRay.H264.AAC-RARBG/Subs/The.Autopsy.of.Jane.Doe.2016.1080p.BluRay.H264.AAC-RARBG.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/The.Autopsy.of.Jane.Doe.2016.1080p.BluRay.H264.AAC-RARBG/Subs/The.Autopsy.of.Jane.Doe.2016.1080p.BluRay.H264.AAC-RARBG.sub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Chapter4/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Fun/Superstore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/Fun/bir.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/birds/function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/birds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HTML/birds/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.vscode/bppj.code-snippets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/ch1_Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/ch1_Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/ch2_Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/out/production/Java/com/company/CWH_01_helloworld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/out/production/Java/com/company/CWH_02_variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/out/production/Java/com/company/CWH_04_literals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/out/production/Java/com/company/CWH_05_input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/out/production/Java/com/company/CWH_06_exer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/CWH_10_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_01_helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_02_variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_03_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_04_literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_05_input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_06_exer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_07_operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_08_op_precedence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/CWH_09_increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/Cacl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/myException1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/src/com/company/operations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../JavaScript folder/Vs code/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../JavaScript folder/Vs code/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../JavaScript folder/Vs code/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../JavaScript folder/Vs code/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../JavaScript folder/Vs code/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../JavaScript folder/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/01_Cracking Recursion Interview Questions/01_sumofnum_usingRECURSION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/01_Cracking Recursion Interview Questions/02_PowerusingREcursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/01_Cracking Recursion Interview Questions/03_GCF_using_Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/01_Cracking Recursion Interview Questions/04_decTObinary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/02_Some Questions/01_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/02_Some Questions/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/02_Some Questions/02_fibbo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/03_1D_array/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/03_1D_array/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/03_1D_array/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/03_1D_array/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/03_1D_array/05_1D_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/04_2D_array/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/04_2D_array/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/05_lists/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/05_lists/02_acessinglist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/05_lists/03_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/05_lists/04_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/05_lists/05_list_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/05_lists/06_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/06_project1_arraylist/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/07_cracking_array_interview_questions/01_missing_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/07_cracking_array_interview_questions/02_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/07_cracking_array_interview_questions/03_missing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/07_cracking_array_interview_questions/04_product_of.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/07_cracking_array_interview_questions/05_unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/07_cracking_array_interview_questions/06_permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/07_cracking_array_interview_questions/_rotate_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/08_dictionaries/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/08_dictionaries/02_updating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/08_dictionaries/03_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/08_dictionaries/04_deleting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/08_dictionaries/05_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSA Udemy/09_tuples/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSALGO_practice/01_recursion_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSALGO_practice/Chap1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/DSALGO_practice/Chap2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/04_countDigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/05_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/06_trailing_zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/07_GCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/08_LCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/09_isprime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/10_prime_factors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/11_allDivisors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/12_sieveOFErathosthenes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/13_power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/01_Mathametics/14_iterativePower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/01_bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/02_check_Kthbut_is_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/03_count_set_bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/04_decimlToBinary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/05_poweroftwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/06_oddOccuring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/07_missingno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/08_two_odd_occuring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/02_BITMagic/09_powerset_using_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/01_nto1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/02_1toNnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/03_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/04_fibbonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/05_sumofn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/06_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/07_sumofdigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/08_ropeCutting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/09_generateSubsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/10_tower_of_hanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/11_josephs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/12_subsetSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/03_recursions/13_permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/02_insert_atGivenPosition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/03_maxelement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/04_secondLargest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/05_isSorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/06_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/07_removeDuplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/08_moveZerostoend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/09_leftRotateArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/10_leftrotatebyD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/11_leadersin_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/12_maxDiff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/13_frequencyinarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/14_stockBuySell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/15_trappingRainWater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/16_maxcosecutiveones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/17_maxsubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/18_maxevenoddsubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/19_maxcircularsubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/20_majorityelement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/21_minimum_group_flips.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/22_windowsliding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/23_window2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/24_n-bonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/25_prefix_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_01_arrays/26_leftsum_rightsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_02arrays_remastered/01_search_an_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_02arrays_remastered/02_add_an_ele.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/04_02arrays_remastered/03_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/05_Sorting/02_index_of_firstOccurence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/05_Sorting/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/Practice/01_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GFG DSALGO/Practice/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/download.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/sc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/tut1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/tut2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/tut3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/tut4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/GUI_cwh/tut5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/01_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/02_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/03_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/04_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/05_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/06_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/07_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/08_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/calc.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/calc.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/warn-calc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/build/calc/xref-calc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/calc.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/calc.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/dist/calc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Kivy/myfirst.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data100.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data102.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data103.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data104.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data105.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data106.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data107.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data108.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data109.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data110.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data111.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data112.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data113.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data114.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data115.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data116.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data117.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data118.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data119.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data120.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data121.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data122.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data123.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data124.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data125.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data126.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data127.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data128.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data129.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data130.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data131.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data132.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data133.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data134.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data135.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data136.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data137.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data138.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data139.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data140.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data141.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data142.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data143.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data144.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data145.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data146.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data147.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data148.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data149.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data150.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data151.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data152.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data153.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data154.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data155.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data156.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data157.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data158.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data159.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data160.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data161.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data162.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data163.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data164.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data165.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data166.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data167.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data168.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data169.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data170.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data171.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data172.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data173.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data174.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data175.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data176.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data177.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data178.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data179.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data180.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data181.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data182.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data183.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data184.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data185.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data186.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data187.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data188.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data189.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data190.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data191.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data192.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data193.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data194.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data195.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data196.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data197.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data198.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data199.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data200.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data201.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data202.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data203.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data204.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data205.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data206.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data207.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data208.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data209.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data210.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data211.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data212.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data213.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data214.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data215.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data216.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data217.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data218.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data219.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data220.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data221.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data222.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data223.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data224.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data225.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data226.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data227.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data228.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data229.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data230.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data232.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data233.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data234.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data235.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data236.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data237.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data238.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data239.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data240.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data241.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data242.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data243.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data244.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data245.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data246.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data247.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data248.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data249.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data250.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data251.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data252.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data253.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data254.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data255.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data256.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data257.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data258.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data259.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data26.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data260.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data261.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data262.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data263.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data264.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data265.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data266.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data267.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data268.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data269.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data27.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data270.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data271.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data272.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data273.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data274.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data275.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data276.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data277.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data278.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data279.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data28.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data280.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data281.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data282.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data283.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data284.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data285.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data286.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data287.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data288.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data289.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data29.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data290.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data291.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data292.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data293.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data294.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data295.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data296.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data297.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data298.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data299.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data30.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data300.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data302.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data303.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data304.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data305.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data306.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data307.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data308.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data309.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data31.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data310.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data311.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data312.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data313.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data314.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data315.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data316.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data317.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data318.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data319.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data32.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data320.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data321.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data322.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data323.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data324.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data325.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data326.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data327.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data328.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data329.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data33.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data330.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data331.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data332.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data333.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data334.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data335.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data336.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data337.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data338.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data339.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data34.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data340.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data341.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data342.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data343.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data344.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data345.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data346.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data347.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data348.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data349.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data35.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data350.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data351.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data352.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data353.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data354.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data355.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data356.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data357.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data358.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data359.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data36.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data360.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data361.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data362.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data363.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data364.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data365.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data366.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data367.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data368.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data369.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data37.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data370.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data371.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data372.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data373.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data374.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data375.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data376.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data377.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data378.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data379.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data38.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data380.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data381.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data382.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data383.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data384.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data385.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data386.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data387.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data388.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data389.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data39.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data390.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data391.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data392.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data393.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data394.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data395.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data396.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data397.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data398.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data399.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data40.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data400.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data401.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data402.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data403.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data404.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data405.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data406.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data407.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data408.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data409.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data41.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data410.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data411.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data412.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data413.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data414.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data415.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data416.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data417.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data418.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data419.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data42.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data420.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data421.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data422.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data423.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data424.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data425.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data426.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data427.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data428.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data429.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data43.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data430.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data431.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data432.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data433.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data434.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data435.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data436.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data437.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data438.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data439.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data44.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data440.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data441.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data442.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data443.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data444.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data445.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data446.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data447.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data448.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data449.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data45.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data450.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data451.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data452.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data453.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data454.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data455.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data456.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data457.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data458.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data459.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data46.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data460.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data461.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data462.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data463.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data464.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data465.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data466.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data467.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data468.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data47.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data48.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data49.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data50.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data51.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data52.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data53.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data54.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data55.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data56.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data57.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data58.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data59.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data60.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data61.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data62.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data63.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data64.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data65.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data66.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data67.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data68.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data69.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data70.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data71.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data72.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data73.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data74.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data75.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data76.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data77.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data78.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data79.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data80.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data81.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data82.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data83.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data84.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data85.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data86.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data87.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data88.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data89.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data90.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data91.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data92.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data93.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data94.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data95.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data96.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data97.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data98.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/archive2/Data99.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/MATLAB2/handtracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/.ipynb_checkpoints/Basic_Charting-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/Basic_Charting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/data2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/realtime_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/time_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/ts3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/ts_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Matplotlib/ts_xlsx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Numpy/.ipynb_checkpoints/Basic_Tutorial-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Numpy/Basic_Tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/.ipynb_checkpoints/BAsics-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/.ipynb_checkpoints/Excel_Work-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/.ipynb_checkpoints/Part2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/BAsics.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/Basics_indexFalse_ka_Excel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/Basics_ka_Excel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/Excel_Work.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/Part2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/Untitled1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/final.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/harry.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Pandas/output.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Aaishah.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Aaishah.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/01_sendingOnemail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/02_periodicmails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/03_sendingmailtocsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/04_mailswithattachment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/05_advancedmailwithattachment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/06_hotmailmailsender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/Bill1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/Bill2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/Student List - Copy.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/Student List.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/annual-enterprise-survey-2020-financial-year-provisional-csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/bills - Copy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/bills.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Emails/All Csv and excels/mail_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Web Scraping/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Web Scraping/01_scrapingBasic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Web Scraping/02_bsbb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Web Scraping/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/Web Scraping/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Automation Udemy/WikiChatbot/01_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/PyWhatKit_DB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Resource/Resource/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Resource/Resource/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Resource/Resource/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Whatsapp Automation/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/Whatsapp Automation/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/cargame/2-D Car Game Using Ursina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/cargame/Resource/Resource/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/cargame/Resource/Resource/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/cargame/Resource/Resource/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/download (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Automation/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Calculator/calculator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/01_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/Internshipmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/Prof MAils.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/Student List.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/Tawseeq's Resume (4).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/emailautomationbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/mail_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Email Sending/mass_mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/game1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/bolt_gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/laserRed16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/meteorBrown_big1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/meteorBrown_big2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/meteorBrown_med1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/meteorBrown_med3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/meteorBrown_small1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/meteorBrown_small2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/meteorBrown_tiny1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/missile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/playerShip1_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/regularExplosion08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/shield_gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/sonicExplosion08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/assets/starfield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/expl3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/expl6.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/getready.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/menu.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/pew.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/rocket.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/rumble1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/sounds/tgfcoder-FrozenJam-SeamlessLoop.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Games/spaceshooter/spaceShooter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Hangman/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Hangman/words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/JARVIS/01_texttospeech.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/JARVIS/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/JARVIS/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/Captcha_2020BMME001_1.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/Result_2020BMEC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/Result_2020BMEC.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/fullNITResult.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/re1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/resme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result/resultapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result2020BMEC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result2020BMME.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Result_2020BMEC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Resultcaptcha_2020BMEC004_1.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Resultcaptcha_2020BMEC004_2.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/NIT Resultcaptcha_2020BMEC005_1.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/PDF reader/mypdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/PDF reader/pdfreader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/QR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/QRcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/SToring_muqsit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Tawseeq's_YT_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Tawseeq.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Tawseeq.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/Video_downloader2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/clock.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/clock.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/warn-clock.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/build/clock/xref-clock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/clock.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/passwordgenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/pdfreader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/random_guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/random_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/sc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/speedTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Projects Python/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Samples/dummy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Samples/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Samples/sample.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Top 450 Questions/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Turtle/01_Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Turtle/02_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/Turtle/03_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/WebScrapping Projects/masti/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/WebScrapping Projects/masti/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/WebScrapping Projects/masti/tem.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/WebScrapping Projects/masti/tem2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/WebScrapping Projects/results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/warn-weather1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/weather1.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/weather1.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/build/weather1/xref-weather1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/fun/cp.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/fun/ir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/fun/pencil_sketch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/projects exe/clock.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/projects exe/weather1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/ckground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/enemy (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/explosion.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/g2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/goli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/laser.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/pichaywalasound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/spaceship (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/spaceship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Python/pygame/tempCodeRunnerFile.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rDW1GH7UCNGTfOtBjHWZfoEeWz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Atom/AI apps",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca27bfb8-f92b-4cd4-9f48-10615082d8cf" name="Changes" comment="" />
+      <created>1736093910930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736093910930</updated>
+    </task>
+    <servers />
+  </component>
+</project>

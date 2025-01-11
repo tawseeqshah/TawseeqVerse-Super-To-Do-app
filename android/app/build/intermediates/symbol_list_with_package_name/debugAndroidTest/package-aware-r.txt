@@ -1,0 +1,3 @@
+com.tawseeq.todo.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

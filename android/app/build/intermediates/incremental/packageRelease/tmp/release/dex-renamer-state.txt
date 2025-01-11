@@ -1,0 +1,7 @@
+#Sun Jan 05 22:01:44 IST 2025
+base.0=D\:\\Atom\\WindSurf\\CascadeProjects\\windsurf-project\\tawseeq-todo-app\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=D\:\\Atom\\WindSurf\\CascadeProjects\\windsurf-project\\tawseeq-todo-app\\android\\app\\build\\intermediates\\global_synthetics_dex\\release\\classes.dex
+path.0=classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
